@@ -1,8 +1,6 @@
-# Fast Setup
+# Fast Setup - szybka konfiguracja
 
-szybka konfiguracja - bez kombinowania
-
-## Co to robi
+## Co to robi ?
 
 instaluje i setupuje system automatycznie. kliknij i działa.
 
@@ -11,7 +9,6 @@ instaluje i setupuje system automatycznie. kliknij i działa.
 **[Ściągnij Fast_Setup.exe](../../releases/latest)**
 
 Windows 10/11
-
 
 ## Licencja
 
