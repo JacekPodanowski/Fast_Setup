@@ -1,8 +1,8 @@
-# Fast Setup - szybka konfiguracja
+# Fast Setup - Szybka Konfiguracja
 
 ## Co to robi ?
 
-instaluje i setupuje system automatycznie.
+instaluje i setupuje system automatycznie
 
 ## Pobierz
 
