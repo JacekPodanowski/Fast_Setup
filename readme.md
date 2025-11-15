@@ -2,14 +2,8 @@
 
 ## Co to robi ?
 
-instaluje i setupuje system automatycznie. kliknij i działa.
+instaluje i setupuje system automatycznie.
 
 ## Pobierz
 
 **[Ściągnij Fast_Setup.exe](../../releases/latest)**
-
-Windows 10/11
-
-## Licencja
-
-MIT - rób co chcesz
