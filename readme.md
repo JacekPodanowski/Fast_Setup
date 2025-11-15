@@ -6,4 +6,4 @@ instaluje i setupuje system automatycznie.
 
 ## Pobierz
 
-**[Ściągnij Fast_Setup.exe](../../releases/latest)**
+**[Ściągnij Fast_Setup.exe](Fast_Setup.exe)**
