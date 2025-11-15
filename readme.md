@@ -1,39 +1,18 @@
 # Fast Setup
 
-**One-click system configuration tool for Windows**
+szybka konfiguracja - bez kombinowania
 
-Fast Setup automates the installation and configuration of essential software and system settings, saving you hours of manual setup time.
+## Co to robi
 
-## Features
+instaluje i setupuje system automatycznie. kliknij i działa.
 
-- 🚀 Automated software installation
-- ⚙️ System optimization presets
-- 🎨 Quick theme customization
-- 📦 Portable - no installation required
+## Pobierz
 
-## Download
+**[Ściągnij Fast_Setup.exe](../../releases/latest)**
 
-**[Download Fast_Setup.exe](../../releases/latest)**
+Windows 10/11
 
-Compatible with Windows 10/11 (64-bit)
 
-## Quick Start
+## Licencja
 
-1. Download the latest release
-2. Run `Fast_Setup.exe` as administrator
-3. Select your configuration profile
-4. Click "Start" and let it work
-
-## Requirements
-
-- Windows 10 or newer
-- Administrator privileges
-- Active internet connection
-
-## License
-
-MIT License - Free for personal and commercial use
-
----
-
-⭐ Star this repo if Fast Setup saved you time!
+MIT - rób co chcesz
